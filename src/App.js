@@ -1,6 +1,4 @@
 import React from "react";
-import logo from './logo.svg';
-import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
@@ -13,6 +11,11 @@ import Home from "./pages/home/home";
 import Register from "./pages/register/register";
 import NavBar from "./components/navbar";
 import Footer from "./components/footer";
+
+import logo from './logo.svg';
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const App = () => {

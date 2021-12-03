@@ -1,0 +1,16 @@
+/* Navbar1 */
+.nav-brand{
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-form{
+  border: 1px solid red;
+  display: flex;
+  justify-content: flex-start;
+}
+/* Navbar1 */
+
+/* Navbar2 */
+
+/* Navbar2 */
